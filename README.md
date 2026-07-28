@@ -1,6 +1,6 @@
-## NestJS-Installation
+## NestJS Installation
 
-
+## Prerequisites
 #### node & npm version check
 ```bash
 node -v
@@ -8,11 +8,11 @@ npm -v
 ```
 
 #### Installation
-##### nestjs cli installation
+##### Installing NestJS CLI
 ```bash
 npm i -g @nestjs/cli
 ```
-##### nest project installation
+##### Creating a New NestJS Project
 ```bash
 nest new project-name
 ```
