@@ -1,15 +1,11 @@
 ## NestJS-Installation
 
 
-#### node version check
+#### node & npm version check
 ```bash
 node -v
-```
-#### npm version check
-```bash
 npm -v
 ```
----
 
 #### Installation
 ##### nestjs cli installation
